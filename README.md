@@ -1,4 +1,4 @@
-# Super Duper Team Profile Generator
+# Pro Note App
 
   ## Licensing:
    
@@ -20,7 +20,10 @@
   
   ## Installation:
  No installation necessary, to use application visit this [link](https://pronoteappp.herokuapp.com/)
-  
+ 
+ 
+  ![image](https://user-images.githubusercontent.com/92278942/149709475-c071fa26-43a0-408a-bd51-b73b5c323b09.png)
+
   
   ## License:
   MIT
